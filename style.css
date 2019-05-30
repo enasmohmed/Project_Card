@@ -1,7 +1,7 @@
 body{
     padding:30px;
     margin:11px;
-    background-image: url(images/header.gif);
+    background-image: url(header.gif);
     font-family: 'Niconne', cursive;
     
     box-shadow: 4px 4px 7px rgba(33,33,33,.7);
